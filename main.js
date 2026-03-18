@@ -237,14 +237,14 @@
 
 
 
-// let user2 = {
-//   name: "Ivan",
-//   age: 20,
-//   isStudent: true,
-//   sayHello: function () {
-//     console.log(`Hello, my name is ${user2.name}`)
-//   },
-// };
+let user2 = {
+  name: "Ivan",
+  age: 20,
+  isStudent: true,
+  sayHello: function () {
+    console.log(`Hello, my name is ${user2.name}`)
+  },
+};
 
 user2.sayHello();
 
